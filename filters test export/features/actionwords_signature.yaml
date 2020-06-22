@@ -1,0 +1,90 @@
+---
+- name: The Inventory page is open
+  uid: 18ec7d12-5865-4c89-92f8-b8fc4c3bc7de
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Cars of the year "p1" only are displayed in the inventory list
+  uid: a87b995d-3c46-44dc-99c3-edd64fde120c
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects maker "p1" from the makers list
+  uid: 0e44b932-a33a-46be-84c8-fc739d96d3de
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Cars of the maker "p1" only are displayed in the inventory list
+  uid: e1ddbffc-b997-46b5-8bb1-bb70194fa752
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects a body type "p1" from the body types list
+  uid: 484fdb9e-617c-49aa-ba16-a2e8e03b7b26
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Cars with body type "p1" only are displayed in the inventory list
+  uid: 1f78eda1-1342-4cfe-9fd0-661bfe4ecc63
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects year "p1" from the years list
+  uid: dbba2a89-3bc8-4c98-9b31-fa20cc07a224
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Cars with the engine "p1" only are displayed in the inventory list
+  uid: 15bf0fd8-a92b-493c-ae54-6d0a773bfd9d
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects engine "p1" from the engines list
+  uid: b1513634-0e31-4056-a117-9081a293e115
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects year 2012 from the years list
+  uid: e0656525-b997-458d-9a28-809c8f855369
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects body type SUV-Crossover from the body types list
+  uid: 668d6043-bb47-4970-8014-be9bbbf72bd5
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects Mazda from the makers list
+  uid: a811d841-2410-4520-b9c7-5bb5c480a56b
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Cars of the year 2012, with body type SUV-Crossover and of Mazda only are
+    displayed in the inventory list
+  uid: e06bf528-a109-4658-bbc3-7c97c12c07bd
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User clicks on the "p1" sorting order
+  uid: 2bc6a35d-9094-4170-b324-7e9b2b893537
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: The inventory list in "p1" sorting order is displayed
+  uid: ca8ec608-7b80-4087-a660-700e59861d5a
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User selects 4 Cylinder Engine from engines list
+  uid: a9255858-5f97-4edc-a596-21056526a1fc
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: User chooses sorting order by year
+  uid: afd62128-44e6-4259-a96b-613c50b26166
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Cars with 4 Cylinder Engine only and sorted by year are displayed in the inventory
+    list
+  uid: 9fd512e4-3019-4eff-bc2f-2e34ccd442ec
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: The inventory list sorted by "p1" is displayed
+  uid: 70c0db1c-d0eb-4615-99b8-53c8bcf662ac
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
